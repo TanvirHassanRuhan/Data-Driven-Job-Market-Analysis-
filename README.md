@@ -17,7 +17,7 @@ The dashboard is designed to explore job trends, demand for different roles, req
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](./32954428-65dc-41a0-a4f6-c50a5202ad74.jpg)
+**Pbix file added**
 
 ---
 
