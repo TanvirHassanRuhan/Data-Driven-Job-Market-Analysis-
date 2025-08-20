@@ -37,11 +37,3 @@ The dashboard is designed to explore job trends, demand for different roles, req
 - **Data Cleaning & Transformation** (Power Query)
 - **Job Market Dataset** (CSV/Excel)
 
----
-
-## 📂 Project Structure
-```bash
-├── Dashboard.pbix        # Power BI project file
-├── dataset/              # Raw dataset used
-├── README.md             # Project documentation
-└── screenshots/          # Dashboard images
